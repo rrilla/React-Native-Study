@@ -14,7 +14,7 @@ const Button = (props) => {
       hitSlop={50}>
       <Text style={{padding: 10, fontSize: 30}}>{props.title}</Text>
     </Pressable>
-  );asdf
+  );
 };
 
 const App = () => {
