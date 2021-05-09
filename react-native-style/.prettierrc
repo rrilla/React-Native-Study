@@ -1,0 +1,8 @@
+{
+  "singleQuote": true, //true=홑따옴표, false=쌍따옴표
+  "semi": true,
+  "useTabs": false,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "printWidth": 80
+}
